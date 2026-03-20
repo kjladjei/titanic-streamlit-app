@@ -1,5 +1,3 @@
-Les librairies nécessaires:
-
 streamlit
 pandas
 numpy
