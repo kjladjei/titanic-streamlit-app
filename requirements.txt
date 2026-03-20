@@ -1,0 +1,8 @@
+Les librairies nécessaires:
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
