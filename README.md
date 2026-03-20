@@ -1,3 +1,10 @@
+Testez l'application en direct ici https://titanic-app-app-learning.streamlit.app/
+
+
+
+
+
+
 # titanic-streamlit-app
 Application Streamlit interactive pour l'analyse et la prédiction de survie sur le Titanic (Projet d'apprentissage Machine Learning)
 
